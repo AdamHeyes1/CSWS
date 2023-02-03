@@ -1,8 +1,3 @@
-print("Hello world")
-print("dasd")
-print("Hello world")
-print("dasd")
-print("Hello world")
-print("dasd")
-print("Hello world")
-print("dasd")
+numbers = range(1,100000001)
+for number in numbers:
+    print(number)
